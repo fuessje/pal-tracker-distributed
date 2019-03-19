@@ -36,5 +36,5 @@ public class ProjectClient {
         return cachedProjectInfoMap.getOrDefault(projectId, null);
     }
 
-    
+
 }
